@@ -1,0 +1,7 @@
+{
+  "error":{
+    "name":"Unauthorized",
+    "message": "The username and password do not match",
+    "code": 401
+  }
+}

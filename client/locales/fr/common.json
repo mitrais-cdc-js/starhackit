@@ -1,0 +1,12 @@
+{
+  "Id": "Id",
+  "Login": "Se connecter",
+  "Logout": "Deconnexion",
+  "Email": "Mél",
+  "Username": "Nom d'utilisateur",
+  "Password": "Mot de passe",
+  "Forgot Password": "Mot de passe oublié ?",
+  "My Profile": "Mon Profil",
+  "About Me": "A propos de moi",
+  "Update Profile": "Mettre à jour mon profil"
+}

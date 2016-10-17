@@ -1,0 +1,15 @@
+---
+- hosts: all
+  sudo: true
+  vars_files:
+    - 'vars/nginx-vars.yml'
+    - 'vars/postgres-vars.yml'
+    - 'vars/nodejs-vars.yml'
+    - 'vars/redis-vars.yml'
+  roles:
+   - nodesource.node
+   - mrlesmithjr.rabbitmq
+   - ansible-redis
+   - nginx
+   - postgresql
+   - api

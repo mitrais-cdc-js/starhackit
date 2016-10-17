@@ -1,0 +1,17 @@
+{
+  "Id": "Id",
+  "Login": "Login",
+  "Logout": "Logout",
+  "Email": "Email",
+  "Surname": "Surname",
+  "Lastname": "Last Name",
+  "First Mame": "First name",
+  "Username": "Username",
+  "Password": "Password",
+  "Create Account": "Create Account",
+  "Forgot Password": "Forgot Password",
+  "dob": "Date of Birth",
+  "Nationality": "Nationality",
+  "Ussuer": "Issuer",
+  "Document Number": "Document Number"
+}
